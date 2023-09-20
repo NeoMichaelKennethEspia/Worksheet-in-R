@@ -23,8 +23,7 @@ min_age
 max_age <- max(age)
 max_age
 
-#6.Set up a vector named data, consisting of 2.4, 2.8, 2.1, 2.5, 2.4, 2.2, 2.5, 2.3,
-#2.5, 2.3, 2.4, and 2.7
+#6.Set up a vector named data, consisting of 2.4, 2.8, 2.1, 2.5, 2.4, 2.2, 2.5, 2.3, 2.5, 2.3, 2.4, and 2.7
 data <- c(2.4, 2.8, 2.1, 2.5, 2.4, 2.2, 2.5, 2.3, 2.5,2.3, 2.4, 2.7)
 data
 
